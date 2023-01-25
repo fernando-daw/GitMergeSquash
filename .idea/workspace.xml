@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b14abc82-0635-4f62-92c0-f405f61dba8c" name="Changes" comment="SQUASH DE LIDER" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="Lider" />
+    <option name="OPTIONS">
+      <set>
+        <option value="SQUASH" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="colaborador" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KpFvrve7tnvNNBF0KAoIUzE8WA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/DAW/Desktop/DAW/Git Merge Squash"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b14abc82-0635-4f62-92c0-f405f61dba8c" name="Changes" comment="" />
+      <created>1674663851346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674663851346</updated>
+    </task>
+    <task id="LOCAL-00001" summary="A">
+      <created>1674663950602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674663950602</updated>
+    </task>
+    <task id="LOCAL-00002" summary="B">
+      <created>1674663975811</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674663975811</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LIDER A">
+      <created>1674664036102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674664036102</updated>
+    </task>
+    <task id="LOCAL-00004" summary="LIDER B">
+      <created>1674664048238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674664048238</updated>
+    </task>
+    <task id="LOCAL-00005" summary="LIDER C">
+      <created>1674664058027</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674664058027</updated>
+    </task>
+    <task id="LOCAL-00006" summary="COLABORADOR A">
+      <created>1674664100186</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674664100186</updated>
+    </task>
+    <task id="LOCAL-00007" summary="COLABORADOR B">
+      <created>1674664112015</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674664112015</updated>
+    </task>
+    <task id="LOCAL-00008" summary="COLABORADOR C">
+      <created>1674664125669</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674664125669</updated>
+    </task>
+    <task id="LOCAL-00009" summary="SQUASH DE COLABORADOR">
+      <created>1674664171033</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674664171033</updated>
+    </task>
+    <task id="LOCAL-00010" summary="SQUASH DE LIDER">
+      <created>1674664213351</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674664213351</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A" />
+    <MESSAGE value="B" />
+    <MESSAGE value="LIDER A" />
+    <MESSAGE value="LIDER B" />
+    <MESSAGE value="LIDER C" />
+    <MESSAGE value="COLABORADOR A" />
+    <MESSAGE value="COLABORADOR B" />
+    <MESSAGE value="COLABORADOR C" />
+    <MESSAGE value="SQUASH DE COLABORADOR" />
+    <MESSAGE value="SQUASH DE LIDER" />
+    <option name="LAST_COMMIT_MESSAGE" value="SQUASH DE LIDER" />
+  </component>
+</project>
